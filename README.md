@@ -3,7 +3,7 @@
 
   <p>Hello there human, my name's Johan, I'm 17 years old and I'm interested in learning more about computerz :3 </p>
   <p>u can contact me on discord or anything else in my <a href="https://linktr.ee/_joelli_">linktree</a></p>
-  <a href="https://discord.com/users/712648730423197697"><img src="https://lanyard.cnrad.dev/api/712648730423197697" /></a>
+  <a href="https://discord.com/users/712648730423197697"><img src="https://lanyard.cnrad.dev/api/712648730423197697?showDisplayName=true" /></a>
   
   <hr>
   
