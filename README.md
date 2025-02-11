@@ -1,7 +1,7 @@
 <p align="center">
   <h1>j0ell1</h1>
 
-  <p>hewwo human :3, my name's Johan and i'm 17 years old. <br>i looove learning more about computerz >w<</p>
+  <p>hewwo human :3 my name's Johan and i'm 17 years old. <br>i looove learning more about computerz >w<</p>
   <p>u can contact me on discord or anything else in my <a href="https://linktr.ee/_joelli_" onclick="window.open('https://linktr.ee/:joelli_'); return false">linktree</a></p>
   <a href="https://discord.com/users/712648730423197697"><img src="https://lanyard.cnrad.dev/api/712648730423197697?showDisplayName=true" /></a>
   
