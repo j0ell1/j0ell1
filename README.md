@@ -7,9 +7,9 @@
   
   <hr>
   
-  <h3>stats for nerds 🤓 </h3>
+  <h3>stats for nerdz 🤓 </h3>
    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=j0ell1&show_icons=true&theme=tokyonight"><br>
    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0ell1&layout=compact&theme=tokyonight">
-   <h3>thingz i can maek stuff with :3 </h3>
+   <h3>thingz i can maek stuff with owo </h3>
    <img src="https://skillicons.dev/icons?i=arch,arduino,cs,css,gamemakerstudio,git,godot,html,idea,js,linux,md,php,vscode,webstorm&perline=8" />
 </p>
