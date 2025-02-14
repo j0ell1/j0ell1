@@ -13,3 +13,6 @@
    <h3>thingz i can maek stuff with owo </h3>
    <img src="https://skillicons.dev/icons?i=arch,arduino,cs,css,gamemakerstudio,git,godot,html,idea,js,linux,md,php,vscode,webstorm&perline=8" />
 </p>
+<hr>
+<h3>My contwibutions owo</h3>
+<p><h4>Translations:</h4> <ul><li><a href="https://github.com/axiel7/MoeList">MoeList</a></li><li><a href="https://github.com/AkaneTan/Gramophone">Gramphone</a></li><li><a href="https://github.com/KotatsuApp/Kotatsu">Kotatsu</a></li>
