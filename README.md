@@ -7,4 +7,4 @@
 </p>
 <hr>
 <h3>My contwibutions owo</h3>
-<p><h4>Translations:</h4> <ul><li><a href="https://github.com/axiel7/MoeList">MoeList</a></li><li><a href="https://github.com/AkaneTan/Gramophone">Gramphone</a></li><li><a href="https://github.com/KotatsuApp/Kotatsu">Kotatsu</a></li>
+<ul><li><a href="https://github.com/axiel7/MoeList">MoeList</a> (translator - czech and slovak language)</li><li><a href="https://github.com/AkaneTan/Gramophone">Gramphone</a> (translator - czech language)</li><li><a href="https://github.com/KotatsuApp/Kotatsu">Kotatsu</a> (translator - czech language)</li>
